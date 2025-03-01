@@ -1,9 +1,9 @@
 local colors = {
 	fg = "#c8c8c8",
-	bg = "#1e1e1e",
+	bg = "#000000",
 	alt_fg = "#c8c8c8",
-	alt_bg = "#181818",
-  cursorline = "#222222",
+	alt_bg = "#1e1e1e",
+  cursorline = "#1f1f1f",
 	blue_1 = "#569cd6",
   blue_2 = "#9CDCFE",
   blue_3 = "#4FC1FF",
